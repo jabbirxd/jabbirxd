@@ -29,6 +29,7 @@
 | Ajker Akash | Weather dashboard whose sky follows the real weather, with a 5-day forecast | Next.js, TypeScript, Open-Meteo | [Live](https://weather-app-nine-red-79.vercel.app) · [Code](https://github.com/jabbirxd/weather-app) |
 | Task Manager | Task manager with priorities, filters and localStorage persistence | Next.js, TypeScript, Tailwind CSS | [Live](https://task-manager-godspeed630.vercel.app) · [Code](https://github.com/jabbirxd/task-manager) |
 | Techif Store | Laravel e-commerce app: storefront, cart, checkout and a role-based admin panel (university field work, run locally) | PHP, Laravel, Livewire, MySQL | [Code](https://github.com/jabbirxd/techif) |
+| Buyora | Laravel e-commerce app: rebrand and redesign of Techif Store, with search, multi-image gallery, sandbox payments and an admin panel (field-work use, run locally) | PHP, Laravel, Livewire, MySQL | [Code](https://github.com/jabbirxd/buyora) |
 | Portfolio | My portfolio with project case studies, dark/light themes and a printable resume | Next.js, TypeScript, Tailwind CSS | [Live](https://jabbirxd.online) · [Code](https://github.com/jabbirxd/portfolio-) |
 
 ### 🧪 Research
